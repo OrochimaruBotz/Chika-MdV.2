@@ -726,6 +726,7 @@ exports.thanksto = () => {
 ├ Sanzy
 ├ Yoga
 ├ RiychDwayne
+├ Kepin gamnteng ୧⍤⃝🍭
 └───────
 `
 }
