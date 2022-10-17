@@ -18,17 +18,17 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283131214121','6283131214121','6283131214121']
+global.owner = ['6288804947282','6288804947282','6288804947282']
 global.premium = ['6283131214121']
-global.ownername = 'kepin gamteng'
-global.botname = 'Xhivier-Md'
-global.footer = 'Xhivier'
+global.ownername = 'Humanz'
+global.botname = 'HumanzBitz-Md'
+global.footer = 'Humanz'
 global.ig = 'https://instagram.com/Kevinafsar_'
-global.email = 'kevinaafsar@gmail.com'
+global.email = 'humanzbotiiz@gmail.com'
 global.region = 'Indonesia'
 global.sc = 'YOTUBE BANYAK BANG🏃'
 global.myweb = 'https://kevinafsarmanik.github.io/nino-wife.github.io/'
-global.packname = 'Hisoka Morrow'
+global.packname = 'Humanz'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'chika'
 global.prefa = ['','!','.','🐦','🐤','🗿']
